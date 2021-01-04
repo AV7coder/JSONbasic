@@ -1,0 +1,15 @@
+{
+    "dict1":{
+        "key_withstrval":"Lorem",
+        "key_withintval":1,
+        "key_withfloatval":12.5,
+        "key_withboolval":true
+    }
+    ,
+    "dict2":{
+        "key_withstrval":"Hello",
+        "key_withintval":67,
+        "key_withfloatval":12123.5,
+        "key_withboolval":false
+    }
+}
